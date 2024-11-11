@@ -1,0 +1,38 @@
+.service{
+    font-size: 14px;
+   margin-top: 100px;
+   background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%); 
+   position: relative;
+   z-index: -1;
+}
+.svgs{
+ background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);;
+  opacity: 0.9;
+  padding: 36px;
+  border-radius: 60px;
+}
+
+.texts{
+    margin-top: 25px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-left: -80px;
+}
+
+.ipsum{
+    width:50%;
+    text-align: center;
+    
+}
+
+.featuress{
+    background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}

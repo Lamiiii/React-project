@@ -1,0 +1,41 @@
+.meet{
+    margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+
+ 
+    
+
+}
+
+
+.other h2{
+    padding: 10px;
+    font-size: 32px;
+}
+.other{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+}
+
+
+
+.gap{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    font-size: 18px;
+}
+
+.lorem-text{
+    font-size: 14px;
+    color: rgb(157, 156, 156);
+    margin-top: -20px;
+}

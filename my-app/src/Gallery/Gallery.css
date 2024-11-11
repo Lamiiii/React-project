@@ -1,0 +1,35 @@
+.imgg {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 200px;
+}
+
+
+.imgg img{
+    position: relative;
+}
+
+.imgg img::after {
+    content: 'bhlda zx';
+    position: absolute;
+    width: 0;
+    height: 0;
+    background-color: blue;
+    transition: width 0.3s ease;
+}
+
+.imgg img:hover::after {
+    width: 100%; 
+}
+
+.gallery {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  margin-top: 50px;
+}
+.gallery h2 {
+  font-size: 32px;
+}

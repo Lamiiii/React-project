@@ -1,0 +1,87 @@
+.info{
+     background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
+     width: 100%;
+     color: white;
+     padding: 20px;
+}
+
+
+.info-header h2{
+    font-size: 32px;
+}
+
+.info-header p{
+    font-size: 16px;
+}
+
+
+
+.input input{
+padding: 5px;
+width: 200px;
+margin: 10px;
+}
+
+.message textarea{
+    width: 440px;
+    margin: 10px;
+    height: 100px;
+
+}
+
+.info-text p{
+    font-size: 16px;
+}
+
+.right-info{
+    margin-top: -100px;
+    font-size: 14px;
+
+}
+
+.right-info span{
+ margin-top: 10px;
+}
+
+.send{
+    width: 200px;
+    border-radius: 80px;
+    padding: 14px;
+    background-color: #6372ff;
+    color: #fff;
+    border: 2px solid white;
+    margin: 0 100px;
+
+}
+
+
+.send:hover{
+    background-color: #fff;
+    color: black;
+}
+
+.line{
+    width: 100%;
+    background-color: #fff;
+    height: 1px;
+    margin-top: 50px;
+}
+
+.sosial-media{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin:50px;
+}
+
+.sosial-media svg{
+    padding: 15px;
+}
+
+
+
+
+
+
+
+

@@ -1,0 +1,38 @@
+.feature{
+    margin-top: 200px;
+}
+.center{
+    text-align: center;
+    margin-left: -60px;
+  }
+
+  .align{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: -60px;
+  }
+  .width{
+    width: 60px;
+    height: 4px;
+    margin-top: -20px; background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);;
+   
+  }
+  
+ .svg{
+  background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);;
+  opacity: 0.9;
+  padding: 32px;
+  border-radius: 50px;
+  /* position: relative;
+  z-index: -1; */
+ }
+
+ .features{
+   text-align: center;
+ }
+
+ .text p{
+  font-size: 16px;
+  color: rgb(142, 140, 140);
+ }
